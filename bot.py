@@ -35,7 +35,6 @@ PRODUCTS = {
         "price": "150 000 so'm",
         "description": "Bayram va tadbirlar uchun chiroyli kostyum",
     },
-    #test
 # =========================
 # BUYURTMA HOLATLARI
 # =========================
