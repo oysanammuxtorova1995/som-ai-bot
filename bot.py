@@ -13,7 +13,7 @@ from telegram.ext import (
 # BotFather bergan tokenni shu yerga qo'ying
 # =========================
 TOKEN = "8605383684:AAFSvy2St2NEvecjVfB5M3G1iBPucSulPM4"
-
+GROUP_ID = -1003867932165
 # =========================
 # MAHSULOTLAR
 # Hozircha oddiy ro'yxat
