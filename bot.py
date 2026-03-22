@@ -12,7 +12,7 @@ from telegram.ext import (
 # BOT TOKEN
 # BotFather bergan tokenni shu yerga qo'ying
 # =========================
-TOKEN = "8605383684:AAFTIEku_sx2F0PFQz2h48b22Nv5G-sF7oM"
+TOKEN = "8605383684:AAFSvy2St2NEvecjVfB5M3G1iBPucSulPM4"
 
 # =========================
 # MAHSULOTLAR
